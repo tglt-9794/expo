@@ -74,7 +74,7 @@
     "expo-speech": "~8.4.0",
     "expo-store-review": "~2.2.0",
     "expo-task-manager": "~8.5.0",
-    "expo-three": "5.2.0",
+    "expo-three": "5.5.1",
     "expo-web-browser": "~8.5.0",
     "fbemitter": "^2.1.1",
     "fuse.js": "^6.4.1",
